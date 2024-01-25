@@ -1,0 +1,17 @@
+constructor:
+    public MyArrayList()
+
+    public void clear()
+    public boolean isEmpty()
+    public int size()
+
+insert stuff:
+    public void add(E item)
+
+search stuff:
+    public boolean contains(E key)
+    public E get(int index)
+
+delete stuff:
+    public E remove(int index)
+    public boolean remove(Object obj)
